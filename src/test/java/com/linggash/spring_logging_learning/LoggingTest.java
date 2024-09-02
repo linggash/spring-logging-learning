@@ -16,4 +16,11 @@ public class LoggingTest {
         log.warn("Belajar Spring");
         log.error("Belajar Java Spring Boot");
     }
+
+    @Test
+    void testLongLogging() {
+        for (int i = 0; i < 100_000; i++) {
+            log.warn("Hello World {}", i);
+        }
+    }
 }
