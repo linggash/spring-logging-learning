@@ -1,8 +1,2 @@
-2024-09-02T09:33:56.746+07:00  INFO 24228 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Starting LoggingTest using Java 17.0.11 with PID 24228 (started by Ling in C:\Users\Ling\Documents\Project\Spring\spring-logging-learning)
-2024-09-02T09:33:56.751+07:00  INFO 24228 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : No active profile set, falling back to 1 default profile: "default"
-2024-09-02T09:33:57.150+07:00  INFO 24228 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Started LoggingTest in 0.713 seconds (process running for 1.63)
-2024-09-02T09:33:57.866+07:00  INFO 24228 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Java
-2024-09-02T09:33:57.867+07:00  WARN 24228 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Spring
-2024-09-02T09:33:57.867+07:00 ERROR 24228 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Java Spring Boot
-2024-09-02T09:34:39.204+07:00  WARN 13136 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Spring
-2024-09-02T09:34:39.205+07:00 ERROR 13136 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Java Spring Boot
+2024-09-02T09:43:04.943+07:00  WARN 9748 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Spring
+2024-09-02T09:43:04.944+07:00 ERROR 9748 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Java Spring Boot
