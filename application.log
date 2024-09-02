@@ -1,0 +1,4 @@
+2024-09-02T09:04:36.585+07:00  WARN 16772 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Spring
+2024-09-02T09:04:36.586+07:00 ERROR 16772 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Java Spring Boot
+2024-09-02T09:05:15.054+07:00  WARN 19344 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Spring
+2024-09-02T09:05:15.055+07:00 ERROR 19344 --- [spring-logging-learning] [main] c.l.spring_logging_learning.LoggingTest  : Belajar Java Spring Boot
